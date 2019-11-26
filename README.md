@@ -1,4 +1,4 @@
-#Assignment Question - What is Git?
+# Assignment Question - What is Git?
 
 Git is a *version control system* created by Linus Torvalds. 
 It is useful for programming because it makes collaborating, rolling back versions, etc easy
@@ -7,7 +7,7 @@ It is also the easiest word to make puns with:
 
     git gud --now
 
-##Commands
+## Commands
 
     git push
     git commit
